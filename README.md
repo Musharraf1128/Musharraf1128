@@ -9,32 +9,38 @@
 │  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
-
-$ whoami
-CS Sophomore @ Scaler | Backend Dev Enthusiast | AI/ML Explorer
-(training my brain alongside the models)
-
-$ cat ~/.bio
-Hey there! I'm Musharraf, a Computer Science sophomore at Scaler School 
-of Technology with a keen interest in backend development and the exciting 
-world of Artificial Intelligence and Machine Learning. I enjoy building 
-reliable systems, breaking down complex problems into simple solutions, 
-and continuously learning. Always curious, I love exploring new technologies 
-and finding smarter ways to create meaningful impact through code.
-
-$ out
-
 ```
 ```
+$ whoami  
 
-languages/            frameworks/           ai_ml/                 tools/
-  ├──C                  ├──React              ├──PyTorch             ├──Linux
-  ├──Java               └──Node.js            ├──LangChain           ├──Git
-  ├──Go                                       ├──NumPy               ├──Neovim
-  ├──Python                                   ├──Pandas              └──Bash
-  ├──JavaScript                               ├──Seaborn
-  ├──HTML/CSS                                 └──Matplotlib
-  └──SQL      
+┌─────────────────────────────────────────────────────────────────────┐
+│  CS Sophomore @ Scaler | Backend Dev Enthusiast | AI/ML Explorer    │
+│  (training my brain alongside the models)                           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+```
+$ cat ~/.bio  
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ Hey there! I'm Musharraf, a Computer Science sophomore at Scaler School      │
+│ of Technology with a keen interest in backend development and the exciting   │
+│ world of Artificial Intelligence and Machine Learning. I enjoy building      │
+│ reliable systems, breaking down complex problems into simple solutions,      │
+│ and continuously learning. Always curious, I love exploring new technologies │
+│ and finding smarter ways to create meaningful impact through code.           │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+```
+$ ls -la ~/.config/skills/
+
+drwxr-xr-x  languages/       drwxr-xr-x  frameworks/       drwxr-xr-x ai_ml/          drwxr-xr-x tools/
+   ├──C                         ├──React                      ├──PyTorch                 ├──Linux
+   ├──Java                      └──Node.js                    ├──LangChain               ├──Git
+   ├──Go                                                      ├──NumPy                   ├──Neovim
+   ├──Python                                                  ├──Pandas                  └──Bash
+   ├──JavaScript                                              ├──Seaborn
+   ├──HTML/CSS                                                └──Matplotlib
+   └──SQL      
 
 ```
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)            
@@ -43,6 +49,7 @@ languages/            frameworks/           ai_ml/                 tools/
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ```
 $ cat ~/.current_projects
+
 ┌──────────────────────────────────────────────────────┐
 │ >> Currently brewing in the terminal:                │
 │                                                      │
@@ -59,6 +66,7 @@ $ cat ~/.current_projects
 
 ```
 $ cat ~/.info
+
 ┌─────────────────────────────────────────────────────────────────────┐
 │                     --- Connect with me ---                         │
 │                                                                     │
@@ -71,13 +79,7 @@ $ cat ~/.info
 └─────────────────────────────────────────────────────────────────────┘
 ```
 ```
-
-
-
 $ exit
+
 Connection closed. Thanks for visiting!
-
-
-
-
 ```
