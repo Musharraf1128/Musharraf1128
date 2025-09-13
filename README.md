@@ -31,7 +31,7 @@ $ cat ~/.bio
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 ```
-$ ls -la ~/.config/skills/
+$ tree -L 2 ~/.config/skills/
 
 drwxr-xr-x  languages/       drwxr-xr-x  frameworks/       drwxr-xr-x ai_ml/          drwxr-xr-x tools/
    ├──C                         ├──React                      ├──PyTorch                 ├──Linux
